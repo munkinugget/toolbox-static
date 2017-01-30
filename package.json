@@ -1,0 +1,25 @@
+{
+  "name": "toolbox-static",
+  "version": "1.0.0",
+  "description": "A simple starter project for static sites.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munkinugget/toolbox-static.git"
+  },
+  "author": "Matthew Cavanaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munkinugget/toolbox-static/issues"
+  },
+  "homepage": "https://github.com/munkinugget/toolbox-static#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
